@@ -25,7 +25,7 @@ This is a solution to the [Advice generator app on Frontend Mentor](https://www.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Advice generator app using React and SCSS | Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-using-react-js-axios-tailwind-css-FyEcxzZgIe)
+- Solution URL: [Advice generator app using React JS, Axios, Tailwind CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-using-react-js-axios-tailwind-css-FyEcxzZgIe)
 - Live Site URL: [https://advice-generator-app-johnmaizo.netlify.app/](https://advice-generator-app-johnmaizo.netlify.app/)
 
 <br>
